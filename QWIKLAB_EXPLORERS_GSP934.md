@@ -2,9 +2,11 @@
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
+- ## First, click the toggle button to turn on the Development mode.
+
 ---
 
-* Replace the following with **order_items.view** file
+* Replace the following with `order_items.view` file
 
 ```
 view: order_items {
@@ -179,7 +181,7 @@ view: order_items {
 }
 ```
 
-* Replace the following with **products.view** file
+* Replace the following with `products.view` file
 
 ```
 view: products {
@@ -261,7 +263,7 @@ view: products {
 }
 ```
 
-* Replace the following with **users.view** file
+* Replace the following with `users.view` file
 
 ```
 view: users {
@@ -376,7 +378,7 @@ view: users {
 }
 ```
 
-* Replace the following with **training_ecommerce.model** file
+* Replace the following with `training_ecommerce.model` file
 
 ```
 connection: "bigquery_public_data_looker"
